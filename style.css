@@ -1,0 +1,14 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+.title {
+    background-color: sandybrown;
+    color: lightgreen;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
