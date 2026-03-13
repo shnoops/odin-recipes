@@ -1,14 +1,37 @@
 body {
-    font-family: 'Courier New', Courier, monospace;
+    background-color: #fff7e6;
+    font-family: 'Brush Script MT', cursive;
     font-size: 20px;
+    margin: 40px;
 }
 
 .title {
-    background-color: sandybrown;
-    color: lightgreen;
-    font-family: 'Brush Script MT', cursive;
+    background-color: #ffd480;
+    color: tomato;
     font-size: 40px;
     text-align: center;
-    text-transform: uppercase;
+}
+
+h2 {
+    text-decoration-line: underline;
+}
+
+img {
+    border-style: dashed;
+    margin: 0 auto;
+    display: block;
+}
+
+li {
+    padding-bottom: 10px;
+}
+
+a {
+  color: #66b3ff;  font-weight: bold;
+  text-decoration-line: none;
+}
+
+a:hover {
+  background-color: gainsboro;
 }
 
